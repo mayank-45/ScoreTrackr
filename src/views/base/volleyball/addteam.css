@@ -1,0 +1,50 @@
+.form-control {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-control:focus {
+    border: 1px solid #555;
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+/* Button */
+.btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #45A049;
+}
+
+/* Layout */
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.content {
+    padding: 16px;
+}
+
+/* Other */
+h1 {
+    text-align: center;
+}
